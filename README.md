@@ -1,4 +1,5 @@
-# hello-world
-Just another repository
+# hello-word
+
+Make it work
 
  Hello GitHub!
